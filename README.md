@@ -1,4 +1,4 @@
-# Project DBMS
+Database Management System Final Project
 
 - PHP
 - MySQL
